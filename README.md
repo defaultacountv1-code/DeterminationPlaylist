@@ -26,7 +26,7 @@
 <li>Distortion</li>
 <li>Echoing</li>
 <li>Reverb phonk to sleep to 24hour</li>     
-<li>Retro bitcrush (john retro would be proud)</li>  
+<li>Retro bitcrush</li>  
 <li>Pitch gliding (ver good for weird routes and genocides)</li>  
 </ul>
 <h3>The player (chara made me do it)</h3>
@@ -34,7 +34,7 @@
 <ul>
 <li>Play song</li>
 <li>Skip to next or past song</li>
-<li>Loop just like how flowey does in undertale</li>
+<li>Loop just like how flowey does in undertale until you reach a dissociative state</li>
 <li>Reverse song (also good for genocides)</li>
 </ul>
 <h3>The discord status part that's really cool and you should read it</h3>
